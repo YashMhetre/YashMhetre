@@ -15,7 +15,11 @@
   </a>
    <a href="https://www.linkedin.com/in/yash-mhetre-b775352b6">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+   </a>
+ 
+   <a href="https://leetcode.com/u/YashMhetre_0503/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+   </a>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
