@@ -1,3 +1,7 @@
+<img src="https://github.com/Basant1313/Basant1313/blob/main/assets/chill-mario.gif?raw=true" alt="MasterHead" height="300" width="100%"  />
+
+
+ 
  <h1 align="center">Hi 👋, I'm Yash Mhetre</h1>
  <h3 align="center">A passionate Software Developer from India</h3>
  
@@ -21,7 +25,7 @@
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
    </a>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 </div>
 
